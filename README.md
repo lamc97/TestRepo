@@ -1,3 +1,3 @@
 # TestRepo
-## Editing the file
-Hello world 
+## This is my final project for Data Science professional certificate from IBM
+
